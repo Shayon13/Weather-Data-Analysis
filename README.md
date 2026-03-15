@@ -7,7 +7,7 @@ This project performs Exploratory Data Analysis (EDA) on a time-series weather d
  3. NumPy (Numerical operations)
  4.Jupyter Notebook / VS code 
 # Dataset Information
- The dataset (1. Weather Data.csv) contains 8,784 rows and 8 columns with the following weather attributes:
+ The dataset ( Weather Data.csv) contains 8,784 rows and 8 columns with the following weather attributes:
   1. Date/Time: The date and time of the record.
   2. Temp_C: Temperature in Celsius.
   3. Dew Point Temp_C: Dew point temperature in Celsius.

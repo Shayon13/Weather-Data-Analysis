@@ -2,7 +2,7 @@
 # Project Overview
 This project performs Exploratory Data Analysis (EDA) on a time-series weather dataset using Python and the Pandas library. The dataset contains hourly weather conditions recorded over a period of time. The project demonstrates how to clean, manipulate, and analyze data to extract meaningful insights using various Pandas functions and logical conditions.
 # Technologies Used
- 1.Python 3
+ 1.Python 
  2.Pandas (Data manipulation and analysis)
  3. NumPy (Numerical operations)
  4.Jupyter Notebook / VS code 

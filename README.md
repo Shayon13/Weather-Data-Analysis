@@ -23,8 +23,7 @@ This project performs Exploratory Data Analysis (EDA) on a time-series weather d
           1. Found the exact number of times the weather was "Clear".
           2. Found the exact number of times the wind speed was exactly "4 km/h".
           3. Isolated all instances where "Snow" was recorded (using partial string matching).
-
-        Filtered records where wind speed was > 24 km/h AND visibility was exactly 25 km.
+          4. Filtered records where wind speed was > 24 km/h AND visibility was exactly 25 km.
 
     4. Data Cleaning: Checked the dataset for NULL/missing values (none were found) and permanently renamed columns for better readability.
     5. Statistical Calculations
